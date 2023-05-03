@@ -75,11 +75,11 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Learn',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'About Me',
+                href: 'https://twitter.com/robm82',
               },
             ],
           },
@@ -103,10 +103,6 @@ const config = {
           {
             title: 'More',
             items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
               {
                 label: 'GitHub',
                 href: 'https://github.com/facebook/docusaurus',
